@@ -28,6 +28,7 @@
 .cards p{
     font-size: small;
     margin: 1.5rem 0;
+    color: var(--mid-color);
 }
 
 .cards h3{

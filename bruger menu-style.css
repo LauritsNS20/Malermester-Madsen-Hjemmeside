@@ -45,7 +45,9 @@ color: #ffc929;
 nav label, nav input{
     display: none;  
 }
-
+nav img{
+ height: 100px;
+}
 @media screen and (max-width:600px){
     nav ul{
      display: none;   
