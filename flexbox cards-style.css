@@ -34,7 +34,7 @@
 .cards h3{
     font-size: x-large;
     font-family: var(--brand-font);
-    color: var(--mid-color);
+    color: var(--brand-color);
 }
 
 .cards span{
