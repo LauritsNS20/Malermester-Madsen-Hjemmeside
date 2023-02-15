@@ -6,7 +6,7 @@
 
 nav{
     width: 100%;
-    min-height: 10hv;
+    min-height: fit-content;
     box-shadow: 0 3px 10px rgba(60, 60, 60, 0,2);
 
     display: flex;
@@ -14,7 +14,7 @@ nav{
     justify-content: space-between;
     align-items: center;
    
-    padding: 2rem;
+    padding: 1rem;
 
     font-size: large;
 }
@@ -70,3 +70,20 @@ nav img{
         margin-top: 2rem;
     }
 }
+ul button{
+color: var(--light-color);
+padding: 9px;
+width: 150px;
+background-color: #ffc929;
+font-size: medium;
+border-style: none;
+}
+
+ul button:hover{
+    background-color: #155e75;
+}
+
+
+
+
+
