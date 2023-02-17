@@ -63,6 +63,7 @@
         height: fit-content;
     
         background-color:var(--mid-color) ;
+        color: #F8FAFC;
         border-radius: 5px;
         padding: 2rem;
         margin-top: 5vh;
@@ -76,6 +77,7 @@
         display: block; 
         font-size: xx-large; 
         font-weight:900; 
+     
     }
     
     .hero img:last-of-type{
@@ -128,4 +130,9 @@
        
       }
 
+      h2{
+        font-size:xx-large;
+      }
+
+      
     

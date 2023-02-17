@@ -28,7 +28,7 @@ padding-top: 10px;
 } 
 
 .vægge{ 
-background-color: var(--dark-color); 
+background-color: var(--mid-color); 
 }
 
 .vægge h1{ 
@@ -42,6 +42,7 @@ color: var(--light-color);
  .vægge h4{ 
 color: var(--brand-color); 
 padding-top: 30px; 
+font-size: x-large;
 }
 
 h5{ 

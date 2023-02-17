@@ -1,0 +1,11 @@
+footer img{
+ height: 100px;    
+}
+
+footer{
+background-color: #e5e7eb;
+}
+
+footer ul{
+    color: var(--mid-color);
+}

@@ -1,16 +1,17 @@
-.cards{
+.cards {
     width: 100%;
     
     
     padding: 8vh 0;
 
-    background: var(--mid-color);
+    background: #e5e7eb;
 
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
     justify-content: center;
 }
+
 
 .cards section{
     flex:0 1 300px;
@@ -34,9 +35,64 @@
 .cards h3{
     font-size: x-large;
     font-family: var(--brand-font);
-    color: var(--brand-color);
+    color: var(--mid-color);
 }
 
 .cards span{
  color: var(--brand-color);   
+}
+
+.priser{
+    width: 100%;
+    
+    
+    padding: 8vh 0;
+
+    background: #e5e7eb;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.priser section {
+    flex:0 1 300px;
+    align-self: stretch;
+
+    background: var(--light-color);
+
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px rgba(50, 50, 50, 0.3); 
+
+
+    padding: 1.5rem;
+}
+
+.priser h6{
+color: var(--mid-color);
+display: flex;
+justify-content: end;
+font-size: x-large;
+}
+
+.priser ul{
+    color: var(--mid-color);
+    font-size: smaller;
+    padding: 4px 0;
+   
+}
+
+.priser h4{
+    color: var(--mid-color);
+    font-size: small;
+    padding: 0 0 8px 0 ;
+}
+
+.priser p{
+    font-size: x-small;
+}
+
+.priser h3{
+    font-size: x-large;
 }
