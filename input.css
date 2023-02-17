@@ -7,8 +7,8 @@
     width: 90px;
     border-radius: 5px;
 }
-.input button:hover{
-    background-color: var(--mid-color);
+.kontakt button:hover{
+    background-color: var(--dark-color);
 }
 
 

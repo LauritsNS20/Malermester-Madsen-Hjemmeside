@@ -8,12 +8,12 @@
 
     display: flex;
     flex-wrap: wrap;
-    gap: 2rem;
+    gap: 2rem; 
     justify-content: center;
 }
 
 
-.cards section{
+.cards section{ 
     flex:0 1 300px;
     align-self: stretch;
 
@@ -28,7 +28,7 @@
 
 .cards p{
     font-size: small;
-    margin: 1.5rem 0;
+    margin: 1 rem 0;
     color: var(--mid-color);
 }
 
