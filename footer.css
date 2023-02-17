@@ -1,11 +1,32 @@
 footer img{
- height: 100px;    
+ height: 100px; 
+ padding-left: 2em;   
 }
 
 footer{
 background-color: #e5e7eb;
+margin: 0;
+padding: 2em 0;
 }
 
-footer ul{
-    color: var(--mid-color);
+footer .info{
+ color: var(--mid-color);
+display: flex;
+ padding: 15px;
+ list-style: none;
+justify-content: space-around;
+
+}
+footer h4{
+font: large;
+padding: 2em 0;
+}
+
+footer li{
+    list-style: none;
+}
+
+
+footer i:hover{
+    color: #ffc929;
 }
